@@ -1,0 +1,6 @@
+You need to install crypt gem:
+
+gem install crypt 
+
+http://crypt.rubyforge.org
+
